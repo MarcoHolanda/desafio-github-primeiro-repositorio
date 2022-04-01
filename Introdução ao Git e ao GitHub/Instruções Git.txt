@@ -1,0 +1,1 @@
+Os comandos do Git estão em um outro arquivo que será adicionado posteriormente. 
